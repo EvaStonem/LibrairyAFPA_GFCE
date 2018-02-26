@@ -37,6 +37,7 @@ public class controller extends HttpServlet {
             //Pas d'affichage
             //Creer les URL 
             //Creer les Sessions
+            //je test Randria
         
     }
 
